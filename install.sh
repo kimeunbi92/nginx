@@ -1,4 +1,4 @@
-apt update
-apt install net-tools
-apt install curl
-apt install tree
+apt update -y
+apt install -y net-tools
+apt install -y curl
+apt install -y tree
